@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Background color inside the border -->
+    <stroke
+        android:width="2dp"
+    android:color="@color/colorPrimary" />
+    <corners android:radius="16dp" /> <!-- Border radius to match CardView's corner radius -->
+    <gradient
+        android:startColor="@color/colorPrimary"
+    android:endColor="@color/colorSecondary"
+    android:angle="45"/> <!-- Gradient angle -->
+
+</shape>

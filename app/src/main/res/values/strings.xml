@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="scan_from_camera">Scan Using \n Camera</string>
+    <string name="scan_from_gallery">Scan Using \n Gallery</string>
+    <string name="scan_using_live">Scan Using \n Live</string>
+</resources>
